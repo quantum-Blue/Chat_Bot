@@ -1,0 +1,16 @@
+{
+  "prompts": [
+    {
+      "prompt": "Merhaba",
+      "answer": "Sana da merhaba."
+    },
+    {
+      "prompt": "Nas\u0131ls\u0131n",
+      "answer": "\u0130yiyim sen nas\u0131ls\u0131n?"
+    },
+    {
+      "prompt": "Harikay\u0131m",
+      "answer": "Bunu duydu\u011fuma sevindim, yard\u0131mc\u0131 olabilece\u011fim herhangi bir \u015fey var m\u0131?"
+    }
+  ]
+}

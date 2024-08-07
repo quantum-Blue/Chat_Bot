@@ -1,0 +1,23 @@
+{
+    "intents": [
+    {
+        "tag": "greetings",
+        "patterns": ["hello","hi","Greetings","hey","good day","what's up","how is it going?"],
+        "responses": ["hello!","Hey!","What can i do for you"]
+    },
+    {
+        "tag": "goodbye",
+        "patterns": ["cya","See you later","Goodbye","I am leaving","Have a good day","Bye","cao","see ya"],
+        "responses": ["Sad to see you go :(","Talk to you later","Goodbye!"]
+    },
+    {
+        "tag": "age",
+        "patterns": ["how old are you","age?","how old","how old is enes","what is your age"],
+        "responses": ["My owner Enes is 20 years old!","20 years!"]
+    },
+    {
+        "tag": "name",
+        "patterns": ["what's your name","what should i call you","what is your name","who are you","can you tell me your name"],
+        "responses": ["You can call me Neurel!","I'm Neurel","I'm Neurel the assistant of Enes"]
+    }
+]}
